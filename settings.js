@@ -16,7 +16,7 @@ global.ytname = "YT: X-TECH-CORP "
 global.socialm = "GitHub: X-TECH-CORP"
 global.location = "United states, New York, Times Square"
 
-global.ownernumber = '18097677081'  //creator number
+global.ownernumber = '233538932297'  //creator number
 global.ownername = '🔞𝐗-𝐓𝐄𝐂𝐇🔰' //owner name
 global.botname = '🔞𝐗-𝐓𝐄𝐂𝐇🔰' //name of the bot
 
